@@ -1,1 +1,26 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.carta {
+  /* margin: auto; */
+  width: 150px;
+  height: 200px;
+  margin-top: 20px;
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#paloB {
+  transform: rotate(180deg);
+}
+
+.figura h1 {
+  font-size: 40px;
+}
+
+.numero h1 {
+  font-size: 65px;
+}
+
+.invertida {
+  transform: rotate(180deg);
+}
